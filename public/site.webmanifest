@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Lucrum Market",
+  "short_name": "LucrumMarket",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#F53838",
+  "description": "Lucrum Market are Best For Privacy, Country and Cheapest.",
+  "icons": [
+    {
+      "src": "/favicon/android-icon-32x39.png",
+      "sizes": "32x39",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "/favicon/android-icon-48x55.png",
+      "sizes": "48x55",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "/favicon/android-icon-72x88.png",
+      "sizes": "72x88",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "/favicon/android-icon-96x112.png",
+      "sizes": "96x112",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "/favicon/android-icon-144x160.png",
+      "sizes": "144x160",
+      "type": "image/png",
+      "density": "3.0"
+    },
+    {
+      "src": "/favicon/android-icon-192x208.png",
+      "sizes": "192x208",
+      "type": "image/png",
+      "density": "4.0"
+    }
+  ]
+}
